@@ -18,8 +18,8 @@ A fully automated bot designed to update Monadscorenode start times for multiple
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AirdropTH/Monadscore-Bot.git
-    cd Monadscore-Bot
+    git clone https://github.com/bilalrai12/Monad_score.git
+    cd Monad_score
     ```
 
 2. Install the required dependencies:
@@ -46,7 +46,7 @@ A fully automated bot designed to update Monadscorenode start times for multiple
 
 ## Stay Connected
 
-- Channel Telegram : [Telegram](https://t.me/AirdropToolkitHub)
+- Channel Telegram : [Telegram](https://t.me/Bilalstudio2)
 
 ## Contributing
 
